@@ -1,0 +1,20 @@
+/* import alphabet from '../node_modules/asciify/lib/figlet-js' */
+
+.box {
+    font-weight: bolder;
+    border-radius: 50%;
+    font-size: 50px;
+    font-family: monospace;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    width: 300px;
+    height: 300px;
+    margin-Left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+};
